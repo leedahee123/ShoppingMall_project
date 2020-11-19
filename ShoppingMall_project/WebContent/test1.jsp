@@ -224,7 +224,7 @@
 		
 		
 		
-					<table border=1>
+	<table border=1>
 		<tr>
 			<td>ID</td>
 			<td>Category</td>
@@ -334,5 +334,7 @@ try{
     }catch(Exception e){ System.out.println(e);}
 %>
 	</table>
+	
+	
 	</body>
 	</html>
